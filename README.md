@@ -3,7 +3,7 @@
 صفحة ويب تفاعلية تلخّص ما تعلمته في مسار تطوير الويب، على شكل رحلة في غابة مسحورة.
 مهمة تطوعية ضمن GDGoC Taif University.
 
-🔗 **الرابط المباشر:** https://althagafiareej2.github.io/my-web-playground/
+🔗 **الرابط المباشر:** https://althagafiareej2-hub.github.io/My-web-playground/
 
 ## المحطات
 - **About Me:** تعريف بي
